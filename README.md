@@ -6,5 +6,6 @@ In my other program is normally generating network traffic from PCAP files. But 
 
 Also I added to replay network traffic according to the time frame of traffic. This will help to reproduce the network traffic precisely. 
 
--Prerequisite: 
-Npcap 0.992, Wireshark
+-Prerequisite
+1. Wireshark
+2. Npcap 0.992
